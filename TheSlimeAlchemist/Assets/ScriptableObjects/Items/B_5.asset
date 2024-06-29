@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235f3cd072b1c4fd98f3c56af9406b7b, type: 3}
+  m_Name: B_5
+  m_EditorClassIdentifier: 
+  ID: 5
+  displayName: Boron
+  icon: {fileID: 1612159555, guid: 89853e6e1f4d242859d6525aa0b04fef, type: 3}
+  prefab: {fileID: 0}
+  shopPrefab: {fileID: 1718290265592619125, guid: cae7fa1e53f89480999da349248ba577, type: 3}
+  type: 0
+  description: Extremely resistant to heat!
+  inParty: 0
+  hasBeenFound: 0
+  price: 30
+  ability: None
+  rarity: 0.999

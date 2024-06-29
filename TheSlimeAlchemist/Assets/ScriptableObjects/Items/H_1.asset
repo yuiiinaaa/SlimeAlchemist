@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235f3cd072b1c4fd98f3c56af9406b7b, type: 3}
+  m_Name: H_1
+  m_EditorClassIdentifier: 
+  ID: 1
+  displayName: Hydrogen
+  icon: {fileID: 227422505, guid: 89853e6e1f4d242859d6525aa0b04fef, type: 3}
+  prefab: {fileID: 7522030042281651572, guid: afc944e3fcf86474ebc2c2236e20b72d, type: 3}
+  shopPrefab: {fileID: 878323521378064639, guid: 6e0183847826649ab9e56f9293fe421c, type: 3}
+  MixingPrefab: {fileID: 7522030042281651572, guid: 22603b2ce740e4202a6204cd39b04d24, type: 3}
+  playableCharacter: {fileID: 8895890117076269510, guid: bf83436a8ef12476f88a6daf89d99b99, type: 3}
+  type: 0
+  description: The most common and essential slime.
+  inParty: 0
+  hasBeenFound: 1
+  price: 5
+  recipeList:
+  - Hydrogen
+  ability: None
+  rarity: 0.999

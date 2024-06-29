@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235f3cd072b1c4fd98f3c56af9406b7b, type: 3}
+  m_Name: Li_3
+  m_EditorClassIdentifier: 
+  ID: 3
+  displayName: Lithium
+  icon: {fileID: -289723735, guid: 89853e6e1f4d242859d6525aa0b04fef, type: 3}
+  prefab: {fileID: 0}
+  shopPrefab: {fileID: 1979011401139949332, guid: a35f0676a333f4b1c98c7cd779e0d624, type: 3}
+  type: 0
+  description: ' Lithium is a sparkly, energetic slime with a positive charge!'
+  inParty: 0
+  hasBeenFound: 0
+  price: 20
+  ability: None
+  rarity: 0.999

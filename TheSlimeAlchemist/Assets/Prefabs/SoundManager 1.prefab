@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5555764077012494921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3586763453641950432}
+  - component: {fileID: 1650069613665300453}
+  m_Layer: 0
+  m_Name: SoundManager 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3586763453641950432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5555764077012494921}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1127.9999, y: 684.49994, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1650069613665300453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5555764077012494921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 470e4f0da0f29874697dd4ed39829387, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Continue
+    clip: {fileID: 8300000, guid: 51e884cb48ae20c4d92810f82f708306, type: 3}
+    volume: 0.376
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Exit
+    clip: {fileID: 8300000, guid: 8657391c09bb51e4fb047537f83733d9, type: 3}
+    volume: 0.405
+    pitch: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: New Game
+    clip: {fileID: 8300000, guid: b73c28b8c2ad44f418a503f274f4dd9d, type: 3}
+    volume: 0.442
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Slimes
+    clip: {fileID: 8300000, guid: 92c524f9e046b9544acf5c42892b3035, type: 3}
+    volume: 0.465
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BGM
+    clip: {fileID: 8300000, guid: aa8d76b9ce8be314ab02c0d1c48fa378, type: 3}
+    volume: 0.173
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}

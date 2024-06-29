@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: c4044c334f6b14169912886e10070372
+  - enabled: 1
+    path: Assets/Scenes/StoryCutScene.unity
+    guid: fd2670dda8b9841a499fa1a7cba5e5c6
+  - enabled: 1
+    path: Assets/Scenes/Test Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Test Scenes/Tutorial.unity
+    guid: 592802e5062e1468695ef7eaab221c93
+  - enabled: 1
+    path: Assets/Scenes/Level0.unity
+    guid: 8b426d30c4fa2fb4a9f1d3f08e58048f
+  - enabled: 1
+    path: Assets/Scenes/Scene 3.unity
+    guid: 0436cd17511d04da89d65c4225e4b894
+  - enabled: 1
+    path: Assets/Scenes/Test Scenes/WorldScreen.unity
+    guid: cbc61a5d83e2649b3b4b91ed8ce69026
+  - enabled: 1
+    path: Assets/Scenes/ShopScreen.unity
+    guid: 030e9a0186cd64078a42a48b91f44133
+  - enabled: 1
+    path: Assets/Scenes/Scene 2.unity
+    guid: 38bebae87c13c4768884f11cbba05e55
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: 26233f0a7601941b1ae7873537d5bf6b
+  - enabled: 1
+    path: Assets/Scenes/InventoryScreen.unity
+    guid: 003e77aab220f44d8bd84025441410c5
+  - enabled: 1
+    path: Assets/Scenes/Level001.unity
+    guid: 48d2f6cadebb24bcc9ef63e53cb719a8
+  - enabled: 1
+    path: Assets/Scenes/MixingScene.unity
+    guid: b3c2b610cfa1a477f8233042c80b80f8
+  m_configObjects: {}

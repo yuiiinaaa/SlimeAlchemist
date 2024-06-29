@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235f3cd072b1c4fd98f3c56af9406b7b, type: 3}
+  m_Name: C_6
+  m_EditorClassIdentifier: 
+  ID: 6
+  displayName: Carbon
+  icon: {fileID: -1193080090, guid: 89853e6e1f4d242859d6525aa0b04fef, type: 3}
+  prefab: {fileID: 0}
+  shopPrefab: {fileID: 2758795553317609861, guid: 0bc46eeb25d6e46a19687d26d65260c4, type: 3}
+  type: 0
+  description: Carbon is a versatile and social slime that can take on various forms.
+  inParty: 0
+  hasBeenFound: 0
+  price: 15
+  ability: None
+  rarity: 0.999

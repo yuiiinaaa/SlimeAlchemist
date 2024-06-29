@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 235f3cd072b1c4fd98f3c56af9406b7b, type: 3}
+  m_Name: Be_4
+  m_EditorClassIdentifier: 
+  ID: 4
+  displayName: Beryllium
+  icon: {fileID: 1084556834, guid: 89853e6e1f4d242859d6525aa0b04fef, type: 3}
+  prefab: {fileID: 9210344027562439805, guid: ff0e5ad9bab1c43d4aed23052b5aa2cd, type: 3}
+  shopPrefab: {fileID: 2226197463632264140, guid: 7895c3dd0c98e473aa475c15f56ff76a, type: 3}
+  MixingPrefab: {fileID: 2974268601807161678, guid: 9b8d985d50a1c45dea60a3e54e78cc47, type: 3}
+  playableCharacter: {fileID: 685611138720577038, guid: aa0f2947099ca46879e735058d6541ce, type: 3}
+  type: 0
+  description: Beryllium is a bit harder to find and has some valuable properties.
+    This slime is small but full of energy, with a sparkly personality that shines
+    brightly.
+  inParty: 0
+  hasBeenFound: 1
+  price: 40
+  recipeList: []
+  ability: None
+  rarity: 0.999
